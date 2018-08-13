@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TypeScriptCompiler">
+    <option name="typeScriptServiceDirectory" value="D:/DevEnv/TypeScript-2.8-rc/lib" />
+    <option name="nodeInterpreterTextField" value="D:/DevEnv/node-v8.10.0-win-x64/node" />
+    <option name="versionType" value="SERVICE_DIRECTORY" />
+  </component>
+</project>
